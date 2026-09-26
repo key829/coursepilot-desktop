@@ -6,7 +6,7 @@ import type {
 } from './types'
 
 export const APP_VERSION = '0.1.0'
-export const RELEASES_URL = 'https://github.com/yatori-dev/yatori-go-console/releases'
+export const RELEASES_URL = 'https://github.com/key829/coursepilot-desktop/releases'
 
 export const api = {
   getVersion:        (): Promise<string>            => callMethod<string>('GetVersion'),

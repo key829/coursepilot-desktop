@@ -9,7 +9,7 @@ import (
 )
 
 // 更新检查指向的项目仓库（换成自己的仓库地址即可启用）
-const updateRepo = "tyf15/coursepilot-desktop"
+const updateRepo = "key829/coursepilot-desktop"
 
 type UpdateInfo struct {
 	HasUpdate      bool   `json:"hasUpdate"`
