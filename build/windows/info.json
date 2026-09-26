@@ -1,0 +1,15 @@
+{
+  "fixed": {
+    "file_version": "0.1.0"
+  },
+  "info": {
+    "0409": {
+      "ProductVersion": "0.1.0",
+      "CompanyName": "coursepilot",
+      "FileDescription": "CoursePilot 课程领航",
+      "LegalCopyright": "MIT License",
+      "ProductName": "CoursePilot 课程领航",
+      "Comments": "多平台课程学习管理桌面工具"
+    }
+  }
+}
